@@ -6,7 +6,7 @@ Projeto desenvolvido dentro das propostas do curso de FrontEnd - Arquitetura CSS
 
 ## 🔨 Funcionalidades do projeto
 Este projeto consiste em criar um website simples utilizando HTML e CSS para praticar a metodologia Atomic Design e boas práticas. As funcionalidades implementadas são:
-- Aplicação da metodologias de arquitetura no CSS;
+- Aplicação de metodologias de arquitetura no CSS;
 - Criação de uma página responsiva;
 - Conhecimento de novas tags e funcionalidades, bem como posicionamentos e disposição dos elementos na página;
 - Desenvolvimento de boas práticas, como melhor uso da semântica.
