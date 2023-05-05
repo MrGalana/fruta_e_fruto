@@ -1,0 +1,23 @@
+.rodape {
+    background: var(--cinza-claro);
+    color: var(--branco);
+    text-transform: lowercase;
+}
+
+.rodape__destaque {
+    color: var(--vinho);
+}
+
+@media screen and (min-width: 0) {
+    .rodape {
+        padding: 1rem 0;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .rodape {
+        padding: 1.5625rem 5rem;
+        text-align: right;
+    }
+}

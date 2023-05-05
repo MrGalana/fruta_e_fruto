@@ -1,0 +1,17 @@
+.descricao__texto {
+    color: var(--cinza);
+    font-family: var(--fonte-primaria);
+    font-weight: 300;
+}
+
+@media screen and (min-width: 0) {
+    .descricao__texto {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .descricao__texto {
+        font-size: 1.75rem;
+    }
+}
